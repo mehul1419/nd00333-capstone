@@ -1,4 +1,4 @@
-<img width="452" alt="image" src="https://github.com/mehul1419/nd00333-capstone/assets/51814570/e11cc267-85d6-4f9d-ba12-2d4bc08614cf"># Udacity Project - Heart failure - AutoMl and Hyperparameter tune.
+# Udacity Project - Heart failure - AutoMl and Hyperparameter tune.
 
 In this project, We used heart failure dataset(https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data). Downloaded this dataset from the kaggle website and uploaded to Azure ML Studio and registered it. This data generally contains data about people and has health related data with the death column. Generally, we have to predict early detection of Heart rate failure using ML.
 
