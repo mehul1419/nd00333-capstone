@@ -109,7 +109,8 @@ Output - b'[1]'
 ## Screen Recording
 https://drive.google.com/file/d/1ExUN4mSmdSZmgXu9vFynkYUhjMVdKqtr/view?usp=sharing
 
-##Cluster and service delete
+## Cluster and service delete
+
 <img width="452" alt="image" src="https://github.com/mehul1419/nd00333-capstone/assets/51814570/64df62c0-1c97-47f8-88a5-21e693c400a4">
 
 
